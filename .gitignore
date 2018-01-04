@@ -1,0 +1,4 @@
+workspace/*.c
+workspace/*.l
+workspace/*.h
+workspace/*.y

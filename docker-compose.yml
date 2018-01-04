@@ -1,0 +1,4 @@
+learn-flex-and-bison:
+  build: .
+  volumes:
+   - $PWD/workspace:/root/workspace
